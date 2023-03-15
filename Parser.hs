@@ -1,5 +1,3 @@
--- Copyright 2023 University of Freiburg
--- Janek Spaderna <janek.spaderna@pluto.uni-freiburg.de>
 {-# LANGUAGE LambdaCase #-}
 
 module Parser
